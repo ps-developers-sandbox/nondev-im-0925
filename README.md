@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Non-Developers
 
 - Class Date: September 25 - 26, 2023
 - Facilitator: @IMlucaslef
