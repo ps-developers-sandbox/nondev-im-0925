@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Drioid Cat 
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
